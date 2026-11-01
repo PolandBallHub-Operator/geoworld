@@ -1,6 +1,0 @@
-{
-  "name": "地理クラブ (Geography Club) - 3Dワールドサンドボックス",
-  "description": "中高生向けの健全でポップな地球儀＆国ボール3Dサンドボックスゲーム。地形エディット、建国、平和な外交、世界の地理学習が楽しめます。",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
